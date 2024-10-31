@@ -1,0 +1,10 @@
+*
+!**/
+!**/*.scala
+!**/*.json
+!**/build.sbt
+!**/README.md
+**/.bsp/**
+**/.scala-build/**
+**/target/
+**/project/
