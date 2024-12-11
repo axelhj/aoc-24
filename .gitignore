@@ -1,6 +1,7 @@
 *
 !**/
 !**/*.scala
+!**/*.txt
 !**/*.json
 !**/build.sbt
 !**/README.md
