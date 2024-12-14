@@ -7,5 +7,6 @@
 !**/README.md
 **/.bsp/**
 **/.scala-build/**
+**/.bloop/**
 **/target/
 **/project/
