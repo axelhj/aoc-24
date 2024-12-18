@@ -24,8 +24,13 @@ object Day4:
                     position = 0
                     return true
                 return false
-            position = 0
-            return false
+            if letter == word(0) then
+                println("SECONDARY MATCH " + word(0) + " " + letter)
+                position = 1
+                false
+            else
+                position = 0
+                false
 
     class Stepper(
         val items: Lookup,
